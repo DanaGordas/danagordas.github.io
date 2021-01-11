@@ -707,6 +707,8 @@ h1, h2, h3, h4, h5, h6, figure {
   top: 0;
 }
 
+/* Work section  */
+
 .work {
   background-size: cover;
   background-position: center center;
@@ -756,7 +758,6 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 @media screen and (max-width: 768px) {
   .work .desc {
-    opacity: 1;
     background: rgba(255, 255, 255, 0.6);
   }
   .work .desc h3 {
